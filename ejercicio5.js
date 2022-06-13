@@ -1,0 +1,2 @@
+let meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+window.alert(meses[parseInt(window.prompt("Introduce un número del 1 al 12"))-1])
